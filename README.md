@@ -12,7 +12,7 @@
 - 💙 Fluent in Flutter<br>
 - 🧪 Big brain in: 
   - 🐍 Python
-  - ©️ C/C++
+  - ➕ C/C++
   - 💜 Kotlin/Java
   - 🎯 Dart/Flutter
   - 📈 R/MATLAB
