@@ -18,6 +18,9 @@
   - 📈 R/MATLAB
 - 🏸 Badminton player
 
+### 📪 Connection
+[![Instagram](https://img.shields.io/badge/Instagram-7D4698?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/insides_voice/)
+
 ### 🔥 Latest
 - ❤️ Check out the latest app release for Tasks. [Click Here](https://github.com/HeckCodes/tasks-public/releases/tag/v1.0.0)
 
