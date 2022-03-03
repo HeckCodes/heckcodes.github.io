@@ -21,6 +21,14 @@
 ### 🔥 Latest
 - ❤️ Check out the latest app release for Tasks. [Click Here](https://github.com/HeckCodes/tasks-public/releases/tag/v1.0.0)
 
+## 📕 Featured Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=tasks-public&show_owner=false&theme=tokyonight)](https://github.com/Heckcodes/tasks-public)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=snake&show_owner=false&theme=tokyonight)](https://github.com/Heckcodes/snake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=game2048&show_owner=false&theme=tokyonight)](https://github.com/Heckcodes/game2048)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=wave&show_owner=false&theme=tokyonight)](https://github.com/Heckcodes/wave)
+
+
 ## 👾 Github Stats
 
 <img src='https://komarev.com/ghpvc/?username=HeckCodes&color=blueviolet' />
