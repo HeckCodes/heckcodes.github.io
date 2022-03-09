@@ -2,6 +2,8 @@
 
 ### 💻 About Me
 
+Chandramauli Shastri
+
 - 👦 He/Him<br>
 - 📌 From New Delhi<br>
 - 🎓 CSE Undergraduate<br>
